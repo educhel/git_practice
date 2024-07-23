@@ -2,3 +2,4 @@
 
 1. git의 사전적 정의는 "(중앙) 버전 관리 프로그램"이다. (X)
    - 답 : 분산 버전 관리 프로그램이다.
+2. git의 3요소는 working directory, staging area, repository 이다. (O)
